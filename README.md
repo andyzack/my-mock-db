@@ -1,2 +1,2 @@
-# my-products-db
+# my-mock-db
 Mock Database 
